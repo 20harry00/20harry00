@@ -1,98 +1,99 @@
-````markdown
-# 영식 배 (Youngsik Bae)
+<div align="center">
+  
+# 👋 안녕하세요! 주니어 백엔드 개발자 OOO입니다.
 
-![header](assets/intro.gif)
+<br>
 
-> 안녕하세요! 저는 웹 프론트/백엔드와 알고리즘을 좋아하는 개발자입니다. 이 README는 HTML, Java, Python 스택을 중심으로 구성되어 있으며, 백준(BOJ) 프로필과 연결되고, 소개 페이지를 GIF로 보여주도록 구성되어 있습니다.
+<p>🚀 새로운 기술을 배우고 적용하는 것을 즐기며, 동료와 함께 성장하는 것을 중요하게 생각합니다.</p>
+<p>💡 주어진 문제를 해결하기 위해 끊임없이 고민하고, 더 나은 코드를 만들기 위해 노력합니다.</p>
 
----
+<br>
 
-## 🔭 한눈에 보기
-- **주요 스택:** HTML · CSS · Java · Python
-- **관심사:** 알고리즘 문제 풀이, 웹 개발, 서비스 프로토타이핑
-- **위치:** 대한민국
+</div>
 
----
+## 🛠️ 기술 스택 (Tech Stack)
 
-## 🛠 기술 스택
+<div align="center">
+  
+**Backend**
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-4A4A4A?style=for-the-badge&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/QueryDSL-0095d5?style=for-the-badge&logo=querydsl&logoColor=white"/>
 
-간단 설명:
-- **HTML/CSS:** 반응형 레이아웃, 접근성 고려한 마크업
-- **Java:** 백엔드 서비스, 알고리즘 구현, 콘솔/서버 사이드 로직
-- **Python:** 스크립트, 데이터 처리, 자동화, 알고리즘 연습
+**Database**
 
----
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
-## 🧩 백준(BOJ) 연결
-[내 백준 프로필](https://www.acmicpc.net/user/YOUR_BAEKJOON_ID)
+**DevOps**
 
-> `YOUR_BAEKJOON_ID`를 본인 아이디로 바꾸면 됩니다.
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 
----
+**Tools**
 
-## 🚀 프로젝트 섹션
-- **프로젝트 A** — 간단한 설명 (HTML + Java)
-- **프로젝트 B** — 간단한 설명 (Python 자동화)
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+
+</div>
 
 ---
 
-## 🎞 소개 페이지 GIF
-소개 GIF는 `assets/intro.gif`에 위치하며, 아래와 같이 생성할 수 있습니다.
+## 📂 포트폴리오 (Portfolio)
 
-### 예시 intro.html
-```html
-<!doctype html>
-<html>
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <style>
-    body{display:flex;align-items:center;justify-content:center;height:100vh;margin:0;font-family:Arial}
-    .card{width:520px;height:300px;border-radius:16px;box-shadow:0 6px 18px rgba(0,0,0,0.12);display:flex;flex-direction:column;align-items:center;justify-content:center}
-    h1{margin:0;font-size:28px}
-    p{margin:6px 0 0 0}
-    .dot{width:12px;height:12px;border-radius:50%;margin-top:18px;animation:jump 0.9s infinite;background:#007acc}
-    @keyframes jump{0%{transform:translateY(0)}50%{transform:translateY(-12px)}100%{transform:translateY(0)}}
-  </style>
-</head>
-<body>
-  <div class="card">
-    <h1>영식 배 (Youngsik Bae)</h1>
-    <p>HTML · Java · Python</p>
-    <div class="dot"></div>
-  </div>
-</body>
-</html>
-````
+### 🚀 프로젝트 명 1 (202X.XX ~ 202X.XX)
 
-이 HTML을 Puppeteer 또는 화면녹화 도구로 캡처하여 GIF로 변환하면 README 상단에 표시됩니다.
+<p>
+  <strong>프로젝트에 대한 한 줄 소개</strong><br>
+  프로젝트에 대한 상세한 설명을 작성합니다. (개발 동기, 목표, 주요 기능 등)
+</p>
 
----
+- **주요 기능:**
+  - 기능 1: 설명
+  - 기능 2: 설명
+  - 기능 3: 설명
+- **담당 역할:**
+  - 백엔드 API 서버 개발
+  - DB 설계 및 구축
+  - AWS EC2/RDS를 이용한 배포
+- **기술 스택:** `Java`, `Spring Boot`, `JPA`, `MySQL`, `AWS`
+- **GitHub:** [Repository 링크](https://github.com/your-username/project-1)
+- **회고/블로그:** [프로젝트 관련 블로그 포스팅 링크](https://your-blog.com/project-1-review)
 
-## 📁 파일 구조 예시
+<br>
 
-```
-README.md
-assets/
-  intro.gif
-projects/
-  project-a/
-  project-b/
-scripts/
-  fetch_boj.py
-  capture.js
-```
+### 🚀 프로젝트 명 2 (202X.XX ~ 202X.XX)
+
+<p>
+  <strong>프로젝트에 대한 한 줄 소개</strong><br>
+  프로젝트에 대한 상세한 설명을 작성합니다. (개발 동기, 목표, 주요 기능 등)
+</p>
+
+- **주요 기능:**
+  - 기능 1: 설명
+  - 기능 2: 설명
+- **담당 역할:**
+  - OOO 기능 개발
+  - OOO 리팩토링
+- **기술 스택:** `Java`, `Spring Boot`, `QueryDSL`, `Redis`, `Docker`
+- **GitHub:** [Repository 링크](https://github.com/your-username/project-2)
+- **회고/블로그:** [프로젝트 관련 블로그 포스팅 링크](https://your-blog.com/project-2-review)
 
 ---
 
-## ✉️ 연락처
+## 📈 GitHub 통계 (GitHub Stats)
 
-* Email: [your.email@example.com](mailto:your.email@example.com)
-* Blog: [https://yourblog.example.com](https://yourblog.example.com)
+<div align="center">
 
-```
-```
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjava911&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjava911&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
+---
+
+## 📞 연락처 (Contact)
+
+<div align="center">
+
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-your--email@example.com-blue?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://your-blog.com"><img src="https://img.shields.io/badge/Blog-your--blog.com-green?style=flat-square&logo=blogger&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-your--linkedin--profile-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+
+</div>
