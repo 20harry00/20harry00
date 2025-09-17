@@ -75,7 +75,9 @@
 - **GitHub:** [Repository 링크](https://github.com/your-username/project-2)
 - **회고/블로그:** [프로젝트 관련 블로그 포스팅 링크](https://your-blog.com/project-2-review)
 
----
+--
+
+![Programmers Badge](https://raw.githubusercontent.com/{자기신 깃허브 아이디}/Programmers_Badge_Generator/main/result/result.svg)
 
 ## 📈 GitHub 통계 (GitHub Stats)
 
