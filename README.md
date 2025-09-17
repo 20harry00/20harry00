@@ -77,7 +77,7 @@
 
 --
 
-![Programmers Badge](https://raw.githubusercontent.com/{자기신 깃허브 아이디}/Programmers_Badge_Generator/main/result/result.svg)
+![Programmers Badge](https://raw.githubusercontent.com/{20harry00}/Programmers_Badge_Generator/main/result/result.svg)
 
 ## 📈 GitHub 통계 (GitHub Stats)
 
