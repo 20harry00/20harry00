@@ -1,11 +1,11 @@
 <div align="center">
   
-# 👋 안녕하세요! 주니어 백엔드 개발자 배영식입니다.
+# 👋 hello! I'm junior backend enginner Yeong Sik Bae
 
 <br>
 
-<p>🚀 새로운 기술을 배우고 적용하는 것을 즐기며, 동료와 함께 성장하는 것을 중요하게 생각합니다.</p>
-<p>💡 주어진 문제를 해결하기 위해 끊임없이 고민하고, 더 나은 코드를 만들기 위해 노력합니다.</p>
+<p>🚀 I enjoy learning and applying new skills, and I value growing up with my colleagues.</p>
+<p>💡 I constantly think about it to solve a given problem, and I try to make better code.</p>
 
 <br>
 
@@ -37,28 +37,27 @@
 
 ## 📂 포트폴리오 (Portfolio)
 
-### 🚀 프로젝트 명 1 (202X.XX ~ 202X.XX)
+### 🚀 Travel destination recommendation site for foreigners(2025.10 ~ 2025.11)
 
 <p>
-  <strong>프로젝트에 대한 한 줄 소개</strong><br>
+  <strong>I recommend travel destinations that offer unique experiences for foreigners</strong><br>
+  Motivation for development: 
   프로젝트에 대한 상세한 설명을 작성합니다. (개발 동기, 목표, 주요 기능 등)
 </p>
 
-- **주요 기능:**
+- **Key Features:**
   - 기능 1: 설명
   - 기능 2: 설명
   - 기능 3: 설명
-- **담당 역할:**
-  - 백엔드 API 서버 개발
-  - DB 설계 및 구축
-  - AWS EC2/RDS를 이용한 배포
-- **기술 스택:** `Java`, `Spring Boot`, `JPA`, `MySQL`, `AWS`
+- **Responsible Role:**
+  - Automate and recommend courses by fetching Gemini ai api
+  - DB Design and Construction
+- **Tech Stack:** `Javascript`, `Html`, `CSS`, `Render`, `Github`
 - **GitHub:** [Repository 링크](https://github.com/your-username/project-1)
-- **회고/블로그:** [프로젝트 관련 블로그 포스팅 링크](https://your-blog.com/project-1-review)
 
 <br>
 
-### 🚀 프로젝트 명 2 (202X.XX ~ 202X.XX)
+### 🚀 프로젝트 명 2 (2024.02 ~ 2024.03)
 
 <p>
   <strong>프로젝트에 대한 한 줄 소개</strong><br>
