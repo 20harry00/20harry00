@@ -1,6 +1,7 @@
 <div align="center">
   
-# 👋 안녕하세요! 저는 백엔드 주니어 개발자, 배영식(Yeong Sik Bae)라고 합니다
+# 👋 안녕하세요! 저는 백엔드 주니어 개발자, 
+# 배영식(Yeong Sik Bae)라고 합니다
 
 <br>
 
