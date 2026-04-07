@@ -37,27 +37,28 @@
 
 ## 📂 포트폴리오 (Portfolio)
 
-### 🚀 Travel destination recommendation site for foreigners(2025.10 ~ 2025.11)
+### 🚀 외국인 여행자들을 위한 여행 코스 추천 플랫폼Travel destination recommendation site for foreigners(2025.10 ~ 2025.11)
 
 <p>
-  <strong>I recommend travel destinations that offer unique experiences for foreigners</strong><br>
-  Motivation for development: 
-  프로젝트에 대한 상세한 설명을 작성합니다. (개발 동기, 목표, 주요 기능 등)
+  <strong>I recommend travel destinations that offer ai unique experiences for foreigners</strong><br>
+  Motivation for development(개발동기): 
+  평소, AI에 추천 서비스에 대한 개발 배경과 사용되는 핵심 기술에 대한 내용이 궁금했기 때문에 AI API 연동 시스템을 맡게 되었습니다.
+  Goal(목표):
+  사용자가 가고 싶은 도시와 여행지를 설정하고 여행에 대한 기본적인 정보(동반자, 대중교통, 일정 등)를 입력하게 되면 미리 설정된 외국인 맞춤 여행지 추천 AI 프롬프트를 활용해 일정을 자동으로 짜주고,
+  여행지를 수정하여 최종결정한 일정을 저장할 수 있습니다.
 </p>
 
-- **Key Features:**
-  - 기능 1: 설명
-  - 기능 2: 설명
-  - 기능 3: 설명
+- **Key Features(주요기능):**
+  - 기능 1: 동적 일정 편집 및 사용자 맞춤형 DB(Redis->Mysql) 저장 시스템
+  - 기능 2: 사용자 환경을 고려한 효율적인 API 연동 및 데이터 처리
+  - 기능 3: Gemini API 기반의 맞춤형 여행 일정 생성 엔진
 - **Responsible Role:**
   - Automate and recommend courses by fetching Gemini ai api
   - DB Design and Construction
-- **Tech Stack:** `Javascript`, `Html`, `CSS`, `Render`, `Github`
-- **GitHub:** [Repository 링크](https://github.com/your-username/project-1)
-
+- **Tech Stack:** `Javascript`, `Html`, `CSS`, `Render`, `Redis` , `Github`
 <br>
 
-### 🚀 프로젝트 명 2 (2024.02 ~ 2024.03)
+### 🚀 프로젝트 명 2 (2026.01 ~ 2026.03)
 
 <p>
   <strong>프로젝트에 대한 한 줄 소개</strong><br>
@@ -68,13 +69,10 @@
   - 기능 1: 설명
   - 기능 2: 설명
 - **담당 역할:**
-  - OOO 기능 개발
-  - OOO 리팩토링
-- **기술 스택:** `Java`, `Spring Boot`, `QueryDSL`, `Redis`, `Docker`
-- **GitHub:** [Repository 링크](https://github.com/your-username/project-2)
-- **회고/블로그:** [프로젝트 관련 블로그 포스팅 링크](https://your-blog.com/project-2-review)
+  - 기능 개발
+  - 리팩토링
+- **기술 스택:** `Java`, `Spring Boot`, `Redis`, `Docker` , `Github`
 
---
 
 ![Programmers Badge](https://raw.githubusercontent.com/{20harry00}/Programmers_Badge_Generator/main/result/result.svg)
 
@@ -93,8 +91,8 @@
 
 <div align="center">
 
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-your--email@example.com-blue?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mail:yeong0586@google.com"><img src="https://img.shields.io/badge/yeong0586@google.com-blue?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://your-blog.com"><img src="https://img.shields.io/badge/Blog-your--blog.com-green?style=flat-square&logo=blogger&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-your--linkedin--profile-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yeongsik-bae-081002299"><img src="https://img.shields.io/badge/yeongsik-bae-081002299-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
 </div>
