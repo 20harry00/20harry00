@@ -74,17 +74,19 @@
 - **기술 스택:** `Java`, `Spring Boot`, `Redis`, `Docker` , `Github`
 
 
-![Programmers Badge](https://raw.githubusercontent.com/{20harry00}/Programmers_Badge_Generator/main/result/result.svg)
-
-## 📈 GitHub 통계 (GitHub Stats)
-
 <div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjava911&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjava911&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
+  <img src="https://raw.githubusercontent.com/20harry00/Programmers-Badge-Generator/main/result/result.svg" alt="Programmers Badge">
 </div>
 
+## 📊 GitHub 통계 (GitHub Stats)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=20harry00&show_icons=true&theme=radical" alt="20harry00's GitHub stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20harry00&layout=compact&theme=radical" alt="Top Langs" />
+</div>
+
+---
 ---
 
 ## 📞 연락처 (Contact)
