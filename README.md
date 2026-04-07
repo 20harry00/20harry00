@@ -1,11 +1,11 @@
 <div align="center">
   
-# 👋 hello! I'm junior backend enginner Yeong Sik Bae
+# 👋 안녕하세요! 저는 백엔드 주니어 개발자, 배영식(Yeong Sik Bae)라고 합니다
 
 <br>
 
-<p>🚀 I enjoy learning and applying new skills, and I value growing up with my colleagues.</p>
-<p>💡 I constantly think about it to solve a given problem, and I try to make better code.</p>
+<p>🚀 저는 새로운 기술을 배우고 적용하는 것을 즐기고, 동료들과 함께 성장하는 것을 중요하게 생각합니다.</p>
+<p>💡 주어진 문제를 해결하기 위해 끊임없이 고민하고, 더 나은 코드를 만들기 위해 노력합니다.</p>
 
 <br>
 
